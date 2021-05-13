@@ -8,14 +8,14 @@ import 'package:http/http.dart'  as http;
 
 class PinHospitalNameProvider extends ChangeNotifier {
   PinCodeHospital pinHosp;
-  String pinCode;
+  var pinCode;
   DateTime date;
-
+  //
   PinHospitalNameProvider({this.pinCode, this.date});
-
+  //
   var queryParameters= {
-    'pincode': pinCode,
-    'date': date.
+    // 'pincode': pinCode;
+    // 'date': date;
   };
 
   Future getHosp(context) async {

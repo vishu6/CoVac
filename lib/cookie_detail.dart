@@ -64,7 +64,7 @@ class CookieDetail extends StatelessWidget {
             ),
             SizedBox(height: 20.0),
             Center(
-                child: ListVaccinePinData(control.text,DateTime.now()),
+                //child: ListVaccinePinData(control.text,DateTime.now()),
             )
           ]
       ),
@@ -86,7 +86,7 @@ class ListVaccinePinData extends StatelessWidget {
         children:<Widget> [
           SizedBox(height: 15.0),
           Center(
-              child: PinHospitalNameProvider(pinCode,date);
+              //child: PinHospitalNameProvider(pinCode,date);
           ),
 
         ],
