@@ -1,6 +1,6 @@
 # CoVac
-  An android app to get Covid-19 Vaccination slot information for India.
-  as Indian govt rolled out vaccines people might rush to the hospital without knowing the slots available, this app helps you in knowing the slots available in near by hospital and any other hospital you want to take appointment for getting vaccinated.
+  An android app to get Covid-19 Vaccination slot information.
+  As Indian govt rolled out vaccines people might rush to the hospital without knowing the slots available, this app helps you in knowing the slots available in near by hospital / any hospital you want to take appointment for getting vaccinated.
   
   SCREENSHOT :
 
