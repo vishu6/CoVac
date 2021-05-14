@@ -1,4 +1,4 @@
-# newapp
+# CoVac
 
 A new Flutter project.
 
