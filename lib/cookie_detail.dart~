@@ -47,7 +47,6 @@ class CookieDetail extends StatelessWidget {
 
             Padding(padding: EdgeInsets.only(left: 20.0,right: 20.0),
                 child:TextField(
-                  maxLength: 6,
                   controller: control,
                   keyboardType: TextInputType.number,
                   decoration: InputDecoration(
