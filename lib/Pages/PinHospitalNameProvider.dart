@@ -10,9 +10,8 @@ class PinHospitalNameProvider extends ChangeNotifier {
   PinCodeHospital pinHosp;
   var pinCode;
   DateTime date;
-  //
   PinHospitalNameProvider({this.pinCode, this.date});
-  //
+
   var queryParameters= {
     // 'pincode': pinCode;
     // 'date': date;
